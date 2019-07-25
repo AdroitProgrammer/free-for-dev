@@ -159,6 +159,7 @@ Table of Contents
   * [meet.jit.si](https://meet.jit.si/) — One click video conversations, screen sharing, for free
   * [flowdock.com](https://www.flowdock.com/) — Chat and inbox, free for teams up to 5
   * [slack.com](https://slack.com/) — Free for unlimited users with some feature limitations
+   * [spectrum.chat](https://spectrum.chat/) — Spectrum is a community platform for the future. Free unlimited messages and public/private communities
   * [gitter.im](https://gitter.im/) — Chat, for GitHub. Unlimited public and private rooms, free for teams up to 25
   * [hangouts.google.com](https://hangouts.google.com/) — One place for all your conversations, for free, need a Google account
   * [seafile.com](https://www.seafile.com/) — Private or cloud storage, file sharing, sync, discussions. Private version is full. Cloud version has just 1 GB
